@@ -1,3 +1,2 @@
 # usd-ads
-University of San Diego Applied Data Science Master's Course 500B Data Science Programming
-Analyzing home sales in the Seattle area. 
+Analyzing home sales in the Seattle area. University of San Diego Applied Data Science Master's 500B Data Science Programming course project. 
