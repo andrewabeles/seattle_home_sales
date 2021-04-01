@@ -4,7 +4,7 @@ Analyzing home sales in the Seattle area. University of San Diego Applied Data S
 The dataset used contains details of house sales in neighborhoods of King County, Washington. 
 It includes data for houses sold between May 2014 and May 2015.  
 
-Origin: Kaggle
+Origin: Kaggle 
 File Type: CSV
 File Size: 2.5 MB
 Modeling Problem: Regression
